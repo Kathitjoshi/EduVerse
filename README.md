@@ -32,6 +32,12 @@ The application features a performance-optimized client-side single-page archite
 
 ---
 
+## Simple Architectural Diagram
+
+<img width="920" height="255" alt="image" src="https://github.com/user-attachments/assets/65dd69cd-9a8d-4742-b5d7-2e876780a9ca" />
+
+
+
 ## Directory Structure and File Responsibilities
 
 Below is an overview of the organization of the codebase:
